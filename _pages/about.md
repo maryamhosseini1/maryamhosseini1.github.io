@@ -28,7 +28,9 @@ latest_posts:
 ---
 
 I am currently an Industrial Engineer and Simulation Specialist in manufacturing, with a background in modeling, optimization, and data-driven decision-making. I recently completed my Ph.D., where my work focused on applying advanced simulation methods to complex manufacturing systems. I’ve had the opportunity to collaborate with interdisciplinary teams across engineering, design, data science, and clinical domains, which has deeply shaped how I approach real-world problems.
-Outside of research, I enjoy cycling, learning gardening, reading, and cooking—especially traditional or forgotten dishes. I also like bicycling
+Outside of research, I enjoy cycling, learning gardening, reading, and cooking—especially traditional or forgotten dishes. I'll take a long bike ride over the gym any day, nothing beats pedaling near wide open farms and endless blue skies! Check out some of my favorite rides here.
+To explore my work and writing, please visit my blog or the social links available in the site footer. For any inquiries or to get in contact, feel free to reach out through the contact page. And hey — if you have thoughts to share but want to stay mysterious, the anonymous feedback form is always open!
+
 #Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` #and Jekyll will render your [publications page](/al-folio/publications/) automatically.
