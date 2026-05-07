@@ -28,4 +28,4 @@ I am currently an Industrial Engineer and Simulation Specialist in manufacturing
 
 Outside of research, I enjoy cycling, learning gardening, reading, and cooking — especially traditional or forgotten dishes. I'll take a long bike ride over the gym any day, nothing beats pedaling near wide open farms and endless blue skies!
 
-To explore my work and writing, please visit my blog or the social links available in the site footer. For any inquiries or to get in contact, feel free to reach out through the contact page. And hey — if you have thoughts to share but want to stay mysterious, the anonymous feedback form is always open!
+To explore my work and writing, please visit my blog or the social links available in the site footer. For any inquiries or to get in contact, feel free to reach out through the contact page. And hey — if you have thoughts to share but want to stay mysterious, the anonymous feedback [form](https://www.admonymous.co/maryam-hosseini) is always open!
