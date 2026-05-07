@@ -11,7 +11,7 @@ profile:
   more_info:
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 
