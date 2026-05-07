@@ -3,16 +3,17 @@ layout: about
 title: about
 permalink: /
 subtitle: Industrial Engineer & Simulation Specialist
+
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: " "
-news: false
+  more_info:
+  
+news: true
 selected_papers: false
 social: true
-latest_posts:
-  enabled: false
+
 ---
 
 I am currently an Industrial Engineer and Simulation Specialist in manufacturing, with a background in modeling, optimization, and data-driven decision-making. I recently completed my Ph.D., where my work focused on applying advanced simulation methods to complex manufacturing systems.
