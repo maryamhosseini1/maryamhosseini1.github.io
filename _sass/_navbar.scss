@@ -79,30 +79,18 @@
     }
   }
 
-  .navbar-brand.social {
+
+   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.5rem;
-    letter-spacing: 0;
+    font-size: 1.7rem;
+
     a {
-      img {
-        width: 2rem;
-        height: 2rem;
-        margin-bottom: 0.5rem;
-      }
-      svg {
-        width: 2rem;
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        image {
-          width: 2rem;
-          height: 2rem;
-        }
-      }
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
+
       &:hover {
         i::before {
           color: var(--global-theme-color);
@@ -110,6 +98,9 @@
       }
     }
   }
+}
+
+  
 
 
 .navbar-toggler {
