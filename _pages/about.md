@@ -23,8 +23,10 @@ latest_posts:
 selected_papers: false
 social: true
 ---
+I strive to understand and improve the systems that shape our world.
+I am currently an Industrial Engineer and Simulation Specialist in manufacturing, with a background in modeling, optimization, and data-driven decision-making. 
 
-I am currently an Industrial Engineer and Simulation Specialist in manufacturing, with a background in modeling, optimization, and data-driven decision-making. I recently completed my Ph.D., where my work focused on applying advanced simulation methods to complex manufacturing systems.
+I recently completed my Ph.D., where my work focused on applying advanced simulation methods to complex manufacturing systems.
 
 Outside of research, I enjoy cycling, learning gardening, reading, and cooking — especially traditional or forgotten dishes. I'll take a long bike ride over the gym any day, nothing beats pedaling near wide open farms and endless blue skies!
 
