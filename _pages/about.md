@@ -21,7 +21,7 @@ latest_posts:
   limit: 3
 
 selected_papers: false
-social: true
+social: false
 ---
 I strive to understand and improve the systems that shape our world.
 I am currently an Industrial Engineer and Simulation Specialist in manufacturing, with a background in modeling, optimization, and data-driven decision-making. 
