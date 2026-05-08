@@ -6,8 +6,7 @@ title: Maryam Hosseini
 first_name: Maryam
 middle_name:
 last_name: Hosseini
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Maryam Hosseini's personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
