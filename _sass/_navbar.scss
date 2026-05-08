@@ -79,11 +79,16 @@
     }
   }
 
-  .navbar-brand.social {
+ .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.5rem !important;
-
+    font-size: 1.5rem;
+    letter-spacing: 0;
+    a {
+      font-size: 1.5rem !important;
+      i {
+        font-size: 1.5rem !important;
+      }
     a {
       img {
         width: 1.7rem;
