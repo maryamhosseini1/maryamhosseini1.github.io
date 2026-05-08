@@ -20,7 +20,6 @@ url: https://maryamhosseini1.github.io # the base hostname & protocol for your s
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: false # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -51,12 +50,9 @@ external_services:
 # Layout
 # -----------------------------------------------------------------------------
 
-_fixed: true
-footer_fixed: false
-search_enabled: false
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+navbar_fixed: true
+footer_fixed: true
+
 
 # Dimensions
 max_width: 800px
