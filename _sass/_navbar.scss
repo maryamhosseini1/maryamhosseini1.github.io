@@ -144,11 +144,7 @@
     color: var(--global-hover-color);
   }
 }
-.navbar-brand.social a i {
-  font-size: 1rem !important;
-}
-
-.navbar-brand.social a {
-  margin: 0 1px !important;
-  padding: 0 !important;
+.navbar-brand.social {
+  font-size: 0.1rem !important;
+  letter-spacing: -0.1rem !important;
 }
