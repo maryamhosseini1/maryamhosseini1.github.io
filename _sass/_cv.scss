@@ -219,6 +219,6 @@ ul.timeline li::before {
 }
 */
 span.badge.danger-color-dark {
-  background-color: var(#00bcd4) !important;
-  color: var(--global-text-color) !important;
+  background-color: #{v.$cyan-color} !important;
+  color: white !important;
 }
