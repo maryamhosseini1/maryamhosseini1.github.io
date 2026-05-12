@@ -220,7 +220,7 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
-span.badge.danger-color-dark {
-  background-color: #{v.$cyan-color} !important;
+table.table-dark span.badge.danger-color-dark {
+  background-color: #00bcd4 !important;
   color: white !important;
 }
