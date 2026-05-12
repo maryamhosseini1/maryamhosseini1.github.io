@@ -7,8 +7,7 @@ cv:
     Currently exploring and learning more in AI research.
   sections:
     Education:
-      - institution: Binghamton University
-        location: Binghamton, NY
+      - institution: Binghamton University, NY, USA
         url: ""
         area: Industrial and Systems Engineering
         studyType: PhD
@@ -17,8 +16,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-      - institution: Western New England University
-        location: Binghamton, NY
+      - institution: Western New England University, MA, USA
         url: ""
         area: Engineering Management
         studyType: MEng
@@ -27,41 +25,34 @@ cv:
         score: ""
         courses: ""
         highlights:
-      - institution: Yazd University
-        location: Yazd, Iran
+      - institution: Yazd University, Yazd, Iran
         area: Industrial Engineering
         studyType: MSc
         start_date: 2014
         end_date: 2016
-      - institution: University of Tehran
-        location: Tehran, Iran
+      - institution: University of Tehran, Tehran, Iran
         area: Statistics
         studyType: BSc
         start_date: 2008
         end_date: 2012
     Experience:
-      - company: Ewing Cole
+      - company: Ewing Cole, New York, NY
         position: Senior Researcher & Simulation Specialist
-        location: New York, NY
         start_date: 2025
         end_date: 2026
-      - company: Ewing Cole
+      - company: Ewing Cole, New York, NY
         position: Senior RA
-        location: New York, NY
         start_date: 2023
         end_date: 2025
-      - company: SUNY RF/ Ewing Cole
+      - company: SUNY RF/ Ewing Cole, New York, NY
         position: RA
-        location: New York, NY
         start_date: 2021
         end_date: 2023
-      - company: Binghamton University
+      - company: Binghamton University, Binghamton, NY
         position: PhD Student & TA
-        location: Binghamton, NY
         start_date: 2019
         end_date: 2021
-      - company: Western New England University
+      - company: Western New England University, Springfield, MA
         position: PhD Fellow & TA / Instructor
-        location: Springfield, MA
         start_date: 2018
         end_date: 2019
