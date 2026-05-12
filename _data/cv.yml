@@ -4,9 +4,9 @@ cv:
   #email: maryamh117@outlook.com
   location: Albany, NY
   image: ""
-  summary: Simulation specialist and researcher with a background in modeling, data-driven methods, and optimization. Experienced in leading healthcare and life sciences simulation projects to solve complex real-world problems through interdisciplinary and computational approaches.
-  Currently exploring and learning more in AI research.
-
+  summary: >
+    Simulation specialist and researcher with a background in modeling, data-driven methods, and optimization. Experienced in leading healthcare and life sciences simulation projects to solve complex real-world problems through interdisciplinary and computational approaches.
+    Currently exploring and learning more in AI research.
   sections:
     Education:
       - institution: Binghamton University
@@ -19,9 +19,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-
-
-     - institution: Western New England University
+      - institution: Western New England University
         location: Binghamton, NY
         url: ""
         area: Engineering Management
@@ -31,53 +29,41 @@ cv:
         score: ""
         courses: ""
         highlights:
-         
       - institution: Yazd University
         location: Yazd, Iran
         area: Industrial Engineering
         studyType: MSc
-        start_date: 2014 
+        start_date: 2014
         end_date: 2016
-
-
       - institution: University of Tehran
         location: Tehran, Iran
         area: Statistics
         studyType: BSc
         start_date: 2008
         end_date: 2012
-
     Experience:
-     - company: Ewing Cole
+      - company: Ewing Cole
         position: Senior Researcher & Simulation Specialist
         location: New York, NY
         start_date: 2025
         end_date: 2026
-
-    
       - company: Ewing Cole
         position: Senior RA
         location: New York, NY
         start_date: 2023
         end_date: 2025
-
       - company: SUNY RF/ Ewing Cole
         position: RA
         location: New York, NY
         start_date: 2021
         end_date: 2023
-       
-
       - company: Binghamton University
-        position: PhD Student & TA 
+        position: PhD Student & TA
         location: Binghamton, NY
         start_date: 2019
         end_date: 2021
-
       - company: Western New England University
         position: PhD Fellow & TA / Instructor
         location: Springfield, MA
         start_date: 2018
         end_date: 2019
-
-
