@@ -218,3 +218,7 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+span.badge.danger-color-dark {
+  background-color: var(--global-card-bg-color) !important;
+  color: var(--global-text-color) !important;
+}
