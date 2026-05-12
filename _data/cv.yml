@@ -48,36 +48,38 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+     - company: Ewing Cole
+        position: Senior Researcher & Simulation Specialist
+        location: New York, NY
+        start_date: 2025
+        end_date: 2026
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    
+      - company: Ewing Cole
+        position: Senior RA
+        location: New York, NY
+        start_date: 2023
+        end_date: 2025
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: SUNY RF/ Ewing Cole
+        position: RA
+        location: New York, NY
+        start_date: 2021
+        end_date: 2023
+       
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Binghamton University
+        position: PhD Student & TA 
+        location: Binghamton, NY
+        start_date: 2019
+        end_date: 2021
+
+      - company: Western New England University
+        position: PhD Fellow & TA / Instructor
+        location: Springfield, MA
+        start_date: 2018
+        end_date: 2019
+
 
       - company: University of Zurich
         position: Associate Professor of Theoretical Physics
