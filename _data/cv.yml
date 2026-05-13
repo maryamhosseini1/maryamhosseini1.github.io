@@ -1,9 +1,8 @@
-cv:
+ cv:
   name: Maryam Hosseini
-  location: {
+  location:
     city: Albany
     region: NY
-  }
   image: ""
   summary: >
     Simulation specialist and researcher with a background in modeling, data-driven methods, and optimization. Experienced in leading healthcare and life sciences simulation projects to solve complex real-world problems through interdisciplinary and computational approaches.
