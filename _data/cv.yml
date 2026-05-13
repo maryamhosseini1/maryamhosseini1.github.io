@@ -8,7 +8,6 @@ cv:
   sections:
     Education:
       - institution: Binghamton University, NY, USA
-        url: ""
         area: Industrial and Systems Engineering
         studyType: PhD
         start_date: 2019
@@ -17,7 +16,6 @@ cv:
         courses: ""
         highlights:
       - institution: Western New England University, MA, USA
-        url: ""
         area: Engineering Management
         studyType: MEng
         start_date: 2018
