@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coming soon!
+I joined [CRB](https://www.crbgroup.com/) as an Industrial Engineer III.
