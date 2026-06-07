@@ -1,7 +1,7 @@
  cv:
   name: Maryam Hosseini
   address:
-    city: Albany
+    city: Clifton Park
     region: NY
   image: ""
   summary: >
@@ -36,6 +36,10 @@
         start_date: 2008
         end_date: 2012
     Experience:
+      - company: CRB, Bridgewater, NJ
+        position: Industrial Engineer III
+        start_date: 2026
+        end_date: Present
       - company: Ewing Cole, New York, NY
         position: Senior Researcher & Simulation Specialist
         start_date: 2025
