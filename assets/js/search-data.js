@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-spoke-at-flexsim-summit-2026-on-designing-scalable-cell-therapy-processes-covering-simulation-bottleneck-analysis-and-scale-up-evaluation",
+            },},{id: "news-i-spoke-at-flexsim-summit-2026-on-designing-scalable-cell-therapy-processes-covering-simulation-bottleneck-analysis-and-scale-up-evaluation",
           title: 'I spoke at FlexSim Summit 2026 on Designing Scalable Cell Therapy Processes, covering...',
           description: "",
           section: "News",},{id: "news-i-joined-crb-as-an-industrial-engineer-iii",
