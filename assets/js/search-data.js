@@ -45,12 +45,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-spoke-at-flexsim-summit-2026-on-designing-scalable-cell-therapy-processes-covering-simulation-bottleneck-analysis-and-scale-up-evaluation",
+          title: 'I spoke at FlexSim Summit 2026 on Designing Scalable Cell Therapy Processes, covering...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-joined-crb-as-an-industrial-engineer-iii",
+          section: "News",},{id: "news-i-joined-crb-as-an-industrial-engineer-iii",
           title: 'I joined CRB as an Industrial Engineer III.',
           description: "",
           section: "News",},{id: "projects-project-1",
